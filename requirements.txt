@@ -1,15 +1,3 @@
-# Dependency inventory inferred from notebook imports.
-# Versions are unpinned; a clean environment was not tested during review.
-datasets
-numpy
-pandas
-torch
-transformers
-scikit-learn
-matplotlib
-tqdm
-sympy
-pyspellchecker
-PyMuPDF
-python-pptx
-reportlab
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
